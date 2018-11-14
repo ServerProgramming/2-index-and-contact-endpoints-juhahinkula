@@ -2,3 +2,5 @@
 Controller & Endpoints
 
 Create Spring Boot application that handle requests to the endpoints **/index** and **/contact**. Index endpoint returns string *'This is the main page'* and contact endpoint returns string '*This is the contact page*'
+
+**Note!** There is file for the controller class created (main.java.HelloController.java) that you have to modify.
